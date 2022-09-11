@@ -24,23 +24,23 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'Aldibotz'
+global.namaowner = 'aldiganzz'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['6287868860325']
+global.premium = ['6287868860325']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
-global.xl = ['-']
+global.telkomsel = ['-']
+global.xl = [6287868860325'']
 global.indosat = ['-']
-global.tri = ['6289636827082']
+global.tri = ['-']
 global.smartfren = ['-']
-global.gopay = ['6289636827082']
-global.dana = ['6289636827082']
+global.gopay = ['-']
+global.dana = ['-']
 global.ovo = ['-']
 global.saweria = ['https://saweria.co/GuaAbuzz']
 
@@ -51,7 +51,7 @@ global.myweb = 'https://tiktok.com/@guaabuzz'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaAbuzz'
+global.packname = 'Aldibotz'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
@@ -64,7 +64,7 @@ global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 
 //—————「 Set Simbol 」—————//
 //terserah mau ubah atau nggak
-global.sp = '⭔'
+global.sp = '☠︎︎'
 
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak
